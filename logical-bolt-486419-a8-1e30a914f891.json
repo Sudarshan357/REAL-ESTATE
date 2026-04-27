@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "logical-bolt-486419-a8",
+  "private_key_id": "1e30a914f89106f69201379da7136093ce5cced5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCtL2ANYhTfNN0x\nWEdtWPZiXw54j1/LKITK+EByVIZY6fm6cVJQp/Z4XAGBGFPpPS7e06YQC1YCTxo3\nFP2puggavuGOABYHIkBiUwl8DTld4XA7Z6Nucebax/ugLXI+w0+2AG+cz/AJlmnd\ngnOduUo/VLfqGym42tidkRTIQfhxt/S/wCha3RHZAr7VdvzMbNAzS7Z6TYMU7ZhA\nCTNDkPm7qjDhm5AinzOmRVbfWW9U+6xbhWPa+ycTYwohUmazZ9Fih3FQQ9OxyGt4\nRc+GYWTPg/sZPFVOWraKrpRS76voIiSe1X408RmQBj2WOpF78TD3bmcr4qMlKCJp\neWEzBt1FAgMBAAECggEABxNcSo+vulUiKGE9GLGZEtQaiRvcw+zVul3B4ODJwqvt\nrsKDW3Ead8r5YMJusO4aSSCaj9xka1dyAuOIzZf8BH8mjNerM0xFYEgqy7+xbC1/\n4oIEeTZFQnEHzcn2sD4NJGF2LexjzvB4axaNMmwMkzz2bO7dvjr9Bl1K71wvNsmP\nMmGYEYzlnU/ld3wtpRw9NlAPv6jndVU8lwPexQqs89loIb8oenA4J8P2srLU37um\nFEGXuUuKY/NSjW9ZwNzVHS8H2ywqn4JbXrLsMyFyx68+1SouwkBZ5/+7aNCMVtkP\n9wlVVQuhqMoY8mAQRfuWh4y4tU55ll+0TMLgimJjDQKBgQDvST7PT+mkCpjkfjEQ\nKG51ekUdBLyPu+jCsaV0a2LoH2HDQmfVzUTrbqTp4ejJXtCy2KVmoGADrpvav23Q\nclfZObVKUSpeIohU8z613GU3SiAkbx68J8ATeHkVinLysoZhHuuJPcWUmNo8QanF\njWAfcN0bIu8g8p6zmmqNDmO5CwKBgQC5SCemn13hcigU1LEFeKqca/PQMBr1Lr90\n7REeb0EYdTL4/dPIfqvHo2TbpFYfni9WA+WF0vDHhWUATDLtZuGWawzrto6uiFdR\noMRxcRAkLfy8eCpO0jK1ZQN+YDIJwZwmfI1+uq4mSTbLEyeGEIjoCCX/v/vnriwi\nz0zumhDU7wKBgQCCH6u3YzakDVs9jl4x8jq3SemBsUy1QTN/hMl7+NXNcxtf6qG6\nw6jB+uZVhZNoxlXpnCS+HWJ5Ph/lIgqeuz+IknhC1MaccF0BDVJB5XtpSLcX+RGW\nsmsia3Y1P5fo4SpwcDcX5+6lM0YiVHb1Rj9Keb7TffjaSvYAp21gDb4vJwKBgDb7\naojPkhRsw+gqlb2B6V8xydBl9hn8HWSdVQ8rBK41WUL6T/aXYHKF0lA7nDMVxgZI\ncbwctMcAltBXzGUWuqrgaZ0pN34jh4X5p1His1+JJg7nueZaCiI6L6c49KBgi+3/\n2B1bWIKUB2aL8JagIYB5qo0Sc7Z0wTQzQCkuHwCRAoGAOCBkkbZKD0gzEnuCkjrS\nm+063ZY3TUq14jE9asFFpOBgy8GzpHcPDeG9mg9H7gsL/lxcL0Ki5Y6DB6giu5BA\nAP6SCi/sEzvOvQaGgLMK9k32O6Lhh8FsVpSQeMMdg2aMfadVz5niMA+VBoUT74R4\nVyi+ByGckYVBKSDSx/bogF8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sheets-sync-service@logical-bolt-486419-a8.iam.gserviceaccount.com",
+  "client_id": "107660084571334787991",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sheets-sync-service%40logical-bolt-486419-a8.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
